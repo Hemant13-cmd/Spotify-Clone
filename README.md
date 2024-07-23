@@ -1,2 +1,8 @@
-# netflix
-This project aims to optimize and personalize Netflix's content recommendations using advanced machine learning algorithms and big data analytics. The goal is to enhance user engagement, satisfaction, and retention by providing accurate and relevant suggestions based on individual viewing habits, preferences, and behavior.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
